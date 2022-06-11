@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-sect-item ul li{
+    padding: 12px;
+}
+
+.nav-sect-item ul li:hover{
+    background-color: #2727F8;
+    color: #FFF4F4;
+    zoom: 1;
+}
+
+.contact-us{
+    height: auto;
+    padding: 2em 0;
+}
+
+.contact-us h2{
+    padding: 1em 0;
+}
+
+.foot-bot{
+    color: #fff;
+    height: auto;
+    padding: 2em 0;
+    background-color: #02625D;
+}
